@@ -5,7 +5,7 @@
 - 👔 I'm open to contracts, part-time or full-time employment if the fit is very good.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: leo.newton@icloud.com
+- 📫 How to reach me: leo253@pm.me
 - ⚡ Fun fact: I just now found out about github profile Readmes!
 
 <a href="https://github.com/Jamesllllllllll"><img alt="Astro" src="https://img.shields.io/badge/Astro-43AA8B?style=for-the-badge&logo=astro&logoColor=white" /></a>
